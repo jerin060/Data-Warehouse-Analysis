@@ -8,9 +8,7 @@
 
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat\&logo=microsoftsqlserver\&logoColor=white)]()
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)]()
-[![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=flat)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)]()
-[![Architecture](https://img.shields.io/badge/Data%20Architecture-Bronze%20%7C%20Silver%20%7C%20Gold-blue)]()
 [![Analytics](https://img.shields.io/badge/Analytics-RFM%20Segmentation-success)]()
 
 </div>
@@ -298,17 +296,6 @@ Features:
 * Measured customer purchasing behavior.
 * Created executive-level KPI reporting.
 * Built interactive analytical dashboards for business decision-making.
-
----
-
-# 🚀 Future Enhancements
-
-* Customer Churn Prediction
-* Product Recommendation System
-* Demand Forecasting
-* Automated ETL Pipelines
-* Incremental Data Loading
-* Real-Time Reporting
 
 ---
 
