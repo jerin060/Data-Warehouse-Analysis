@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="banner.png" alt="Retail Analytics Data Warehouse & Business Intelligence Dashboard" width="100%"/>
 
 # 📊 Retail Analytics Data Warehouse & Business Intelligence Dashboard
 
@@ -31,6 +30,13 @@ The solution focuses on:
 * Business KPI Monitoring
 
 ---
+![Data Model](images/overview.png)
+![Data Model](images/customer_analysis.png)
+![Data Model](images/product_dashboard.png)
+![Data Model](images/rfm_dashboard.png)
+
+---
+
 
 # 🏗️ Project Architecture
 
@@ -306,6 +312,12 @@ Features:
 Data Analytics | Business Intelligence | SQL | Power BI
 
 GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+## 📚 Reference
+
+This project is based on the **Data Warehouse Project** from the **Data with Baraa SQL Course** (https://github.com/DataWithBaraa/sql-data-warehouse-project.git). The original project provides the CRM/ERP datasets and data warehouse architecture, while this repository focuses on SQL analytics, RFM segmentation, and Power BI dashboard development.
 
 ---
 
